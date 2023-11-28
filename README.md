@@ -12,7 +12,7 @@ The task involves working at a company specializing in student loan refinancing.
 - tensorflow
 - sklearn
 - keras
-- 
+
 # CSV Reference
 https://static.bc-edx.com/mbc/ai/m6/datasets/student_loans.csv
 
